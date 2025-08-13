@@ -60,14 +60,13 @@ The app uses the third-party SDWebImage library to display movie posters.<br/>
   <img src="https://github.com/MelihUluhan/NetflixClone/blob/main/Screenshots/downloads_search.png" width="250" /> 
 </p>
 
+---
+
 <h3 align="center">🚀 How to Clone and Run</h3>
 
 <p align="center">
 To get a local copy of this project, follow these steps:
 </p>
-
----
-
 
 ```bash
 # Clone the repository
