@@ -1,11 +1,15 @@
 <h1 align="center">🎬 Netflix Clone</h1>
+
 <p align="center">
 Netflix Clone is an iOS app inspired by the Netflix app and developed with my own ideas.<br/>
 It was developed for iOS 15 and above using modern technologies with a fully programmable user interface.<br/>
 The app uses the third-party SDWebImage library to display movie posters.<br/>
 </p>
 
+---
+
 <h3 align="center">🛠️ Technologies Used</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" />
@@ -18,6 +22,9 @@ The app uses the third-party SDWebImage library to display movie posters.<br/>
   🌐 API requests with URLSession<br/>
   💾 Core Data / UserDefaults
 </p>
+
+---
+
 
 <h3 align="center">📌 Features</h3>
 
@@ -32,6 +39,9 @@ The app uses the third-party SDWebImage library to display movie posters.<br/>
   💾 Local data storage with Core Data<br/>
   ⚡ Fast and cached image loading with SDWebImage<br/>
 </p>
+
+---
+
 
 <h3 align="center">📸 Screenshots</h3>
 
@@ -55,6 +65,9 @@ The app uses the third-party SDWebImage library to display movie posters.<br/>
 <p align="center">
 To get a local copy of this project, follow these steps:
 </p>
+
+---
+
 
 ```bash
 # Clone the repository
